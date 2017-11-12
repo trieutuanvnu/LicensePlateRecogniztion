@@ -1,0 +1,1 @@
+workstation id=quanlyren.mssql.somee.com;packet size=4096;user id=kakazaro_SQLLogin_1;pwd=772rbdfyro;data source=quanlyren.mssql.somee.com;persist security info=False;initial catalog=quanlyren

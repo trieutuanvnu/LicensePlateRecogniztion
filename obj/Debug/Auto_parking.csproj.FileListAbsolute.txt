@@ -1,0 +1,67 @@
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Auto_parking.exe.config
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Auto_parking.exe
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Auto_parking.pdb
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\obj\Debug\Auto_parking.Properties.Resources.resources
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\obj\Debug\Auto_parking.csproj.GenerateResource.Cache
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\obj\Debug\Auto_parking.exe
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\obj\Debug\Auto_parking.pdb
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.dll
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.ML.dll
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.UI.dll
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.Util.dll
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\ZedGraph.dll
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.xml
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.ML.xml
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.UI.xml
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\Emgu.Util.xml
+c:\users\quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\tesseractengine3.dll
+C:\Users\Quân\documents\visual studio 2015\Projects\Auto_parking\Auto_parking\obj\Debug\Auto_parking.csprojResolveAssemblyReference.cache
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\obj\Debug\Auto_parking.MainForm.resources
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\obj\Debug\Auto_parking.ImageForm.resources
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\AForge.Video.dll
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\AForge.dll
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\AForge.Video.xml
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Quân\Documents\Visual Studio 2015\Projects\Auto_parking\Auto_parking\bin\Debug\AForge.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\Auto_parking.exe.config
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\obj\Debug\Auto_parking.exe
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\obj\Debug\Auto_parking.pdb
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\Auto_parking.exe
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\Auto_parking.pdb
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\AForge.dll
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\ZedGraph.dll
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\AForge.Video.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.ML.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\Emgu.CV.UI.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\Emgu.Util.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\bin\Debug\AForge.xml
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\obj\Debug\Auto_parking.csprojResolveAssemblyReference.cache
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\obj\Debug\Auto_parking.ImageForm.resources
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\obj\Debug\Auto_parking.MainForm.resources
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\obj\Debug\Auto_parking.Properties.Resources.resources
+C:\Users\letrantr\Desktop\Auto_parking_LPR_share\Auto_parking\Auto_parking\obj\Debug\Auto_parking.csproj.GenerateResource.Cache
+C:\Users\letrantr\Desktop\New folder\Auto_parking\bin\Debug\Auto_parking.exe.config
+C:\Users\letrantr\Desktop\New folder\Auto_parking\obj\Debug\Auto_parking.exe
+C:\Users\letrantr\Desktop\New folder\Auto_parking\obj\Debug\Auto_parking.pdb
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\Auto_parking.exe.config
+C:\Users\h2phamth\Desktop\Auto_parking\obj\Debug\Auto_parking.exe
+C:\Users\h2phamth\Desktop\Auto_parking\obj\Debug\Auto_parking.pdb
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\Auto_parking.exe
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\Auto_parking.pdb
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\AForge.dll
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\ZedGraph.dll
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\AForge.Video.xml
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\Emgu.CV.xml
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\Emgu.CV.ML.xml
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\Emgu.CV.UI.xml
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\Emgu.Util.xml
+C:\Users\h2phamth\Desktop\Auto_parking\bin\Debug\AForge.xml
+C:\Users\h2phamth\Desktop\Auto_parking\obj\Debug\Auto_parking.csprojResolveAssemblyReference.cache
+C:\Users\h2phamth\Desktop\Auto_parking\obj\Debug\Auto_parking.ImageForm.resources
+C:\Users\h2phamth\Desktop\Auto_parking\obj\Debug\Auto_parking.MainForm.resources
+C:\Users\h2phamth\Desktop\Auto_parking\obj\Debug\Auto_parking.Properties.Resources.resources
+C:\Users\h2phamth\Desktop\Auto_parking\obj\Debug\Auto_parking.csproj.GenerateResource.Cache
